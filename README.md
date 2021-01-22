@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+###### Sup! Here's **Duc**! 🤓 
+
+###### I'm Mobile developer/☁️! 
+
+[![Mallowigi's github stats]([![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manhduc-nguyen)](https://github.com/anuraghazra/github-readme-stats))
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=linshare-mobile-flutter-app&theme=radical)](https://github.com/linagora/linshare-mobile-flutter-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=linshare-mobile-android-app&theme=nightowl)](https://github.com/linagora/linshare-mobile-android-app)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhduc-nguyen&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **manhduc-nguyen/manhduc-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
