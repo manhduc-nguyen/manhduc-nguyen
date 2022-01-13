@@ -7,7 +7,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manhduc-nguyen&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=linshare-mobile-flutter-app&theme=radical)](https://github.com/linagora/linshare-mobile-flutter-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=linagora&repo=linshare-mobile-android-app&theme=nightowl)](https://github.com/linagora/linshare-mobile-android-app)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manhduc_nguyen&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 <!--
